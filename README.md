@@ -40,11 +40,11 @@ termux-setup-storage
 ```
 
 ```bash
-cd /sdcard && git clone https://github.com/NaufraZapp/Naufrabot-base
+cd /sdcard && git clone https://github.com/thedroid-dev/xiresoo-base
 ```
 
 ```bash
-cd Naufrabot-base
+cd xiresoo-base
 ```
 
 ```bash
